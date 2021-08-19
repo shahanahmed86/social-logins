@@ -1,14 +1,12 @@
 import firebase from 'firebase';
 
 const config = {
-	apiKey: 'AIzaSyBlQ9i8ROOzBzAdjpKa2QUrIBKSxYPuYS4',
-	authDomain: 'go-carts.firebaseapp.com',
-	databaseURL: 'https://go-carts-default-rtdb.firebaseio.com',
-	projectId: 'go-carts',
-	storageBucket: 'go-carts.appspot.com',
-	messagingSenderId: '945172289053',
-	appId: '1:945172289053:web:a15a2d368a68bf634418f4',
-	measurementId: 'G-CKER6TL3TG'
+	apiKey: 'AIzaSyAt5kCiPCi8QKpLU3G-krvgaGTNrThDUWA',
+	authDomain: 'accounts-320913.firebaseapp.com',
+	projectId: 'accounts-320913',
+	storageBucket: 'accounts-320913.appspot.com',
+	messagingSenderId: '904957106082',
+	appId: '1:904957106082:web:9e6b8908a71ee9fcbd04fb'
 };
 
 firebase.initializeApp(config);
