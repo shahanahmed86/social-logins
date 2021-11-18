@@ -1,12 +1,13 @@
 import firebase from 'firebase';
 
 const config = {
-	apiKey: 'AIzaSyAt5kCiPCi8QKpLU3G-krvgaGTNrThDUWA',
-	authDomain: 'accounts-320913.firebaseapp.com',
-	projectId: 'accounts-320913',
-	storageBucket: 'accounts-320913.appspot.com',
-	messagingSenderId: '904957106082',
-	appId: '1:904957106082:web:9e6b8908a71ee9fcbd04fb'
+	apiKey: 'AIzaSyCXOG8kZttJqeABEKh5yr8aDgInRsTrCsM',
+	authDomain: 'khabri-app.firebaseapp.com',
+	projectId: 'khabri-app',
+	storageBucket: 'khabri-app.appspot.com',
+	messagingSenderId: '950194342213',
+	appId: '1:950194342213:web:890d5caf4246df11e1562c',
+	measurementId: 'G-DJBG63BMS2',
 };
 
 firebase.initializeApp(config);
